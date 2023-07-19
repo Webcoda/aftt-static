@@ -1,0 +1,24 @@
+User-agent: *
+Disallow: /CMSHelp/*
+User-agent: *
+Disallow: /CMSDesk/*
+User-agent: *
+Disallow: /CMSSiteManager/*
+
+User-agent: *
+Disallow: /agents/www.idp.cn
+Disallow: /agents/www.sevenpeakseducation.com.au
+Disallow: /agents/www.timest.co.kr
+Disallow: /events/open-days/ Phone 9213 4500 info@actt.edu.au
+Disallow: /faq's
+Disallow: /news/latest-news/aftt-rebrand-Ã¢Â€Â“-howÃ¢Â€Â™s-it-going
+Disallow: /news/latest-news/what-itÃ¢Â€Â™s-like-to-judge-at-the-logie-awards
+Disallow: /news/latest-news/why-just-being-able-to-act-isnÃ¢Â€Â™t-always-enough
+Disallow: /news/latest-news/why-just-being-able-to-act-isnâ€™t-always-enough
+Disallow: /news/alumni-successes/alumni-screenwriting$
+Disallow: /events/workshop/july-workshop?utm_source=NSW+Career+Advisors/Teachers+-+Updated+27/6/17&utm_campaign=781af91c9f-AFTT_e-news_events&utm_medium=email&utm_term=0_f083a23861-781af91c9f-450591541&mc_cid=781af91c9f&mc_eid=7551fe1960
+Disallow: /aftt-international-student-fee-schedule-(1)
+Disallow: /news-stories/acting
+Disallow: /news-stories/film-(1)
+
+Sitemap: https://www.aftt.edu.au/cmspages/googlesitemap.aspx
